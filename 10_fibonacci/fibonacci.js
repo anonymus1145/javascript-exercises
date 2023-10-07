@@ -12,7 +12,7 @@ const fibonacci = function (number) {
         let finalNum = fibNum.pop();
 
         return finalNum;
-    };
+    }
 }
 
 // Do not edit below this line
